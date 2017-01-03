@@ -1,5 +1,5 @@
 
-title: Luu Tuan Anh
+title: Luu Tuan Anh - My resume
 url: 'http://rockkhuya.com'
 
 
@@ -20,6 +20,6 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 email: rock.khuya@gmail.com
 phone: (+84) 0934 898 137
 website: vietonrails.com #do not add http://
-github: rockkhuya
+github: thuckhuya
 
 #Update all the sections by editing the files inside _includes folder.
